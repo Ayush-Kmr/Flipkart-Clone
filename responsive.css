@@ -1,0 +1,21 @@
+@media screen and (max-width: 900px) {
+  nav {
+    background-color: var(--main-bg-color);
+    flex-direction: column;
+    margin-left: 14vw;
+  }
+  #change {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 0px;
+    aspect-ratio: 2px;
+  }
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    font-size: 3vw;
+  }
+}

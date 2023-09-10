@@ -2,7 +2,6 @@
   nav {
     background-color: var(--main-bg-color);
     flex-direction: column;
-    margin-left: 14vw;
   }
   #change {
     display: flex;
@@ -17,6 +16,7 @@
     align-items: center;
     width: 100vw;
     font-size: 3vw;
+    max-width: 95vw;
   }
   .card {
     max-width: 75vw;

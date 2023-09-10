@@ -18,4 +18,7 @@
     width: 100vw;
     font-size: 3vw;
   }
+  .card {
+    max-width: 75vw;
+  }
 }
